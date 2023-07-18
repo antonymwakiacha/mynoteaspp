@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "703858898452",
+    "project_id": "mynotes-fltr-project",
+    "storage_bucket": "mynotes-fltr-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703858898452:android:e0d97412584f1d03dcd901",
+        "android_client_info": {
+          "package_name": "org.pwaniteknowgalz.mynotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703858898452-mdp1bh3dvfgr83c5bh9is38t2tcl62a4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3w12fKclrcjAz4euW7QyEmLLhxVr0sLI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703858898452-mdp1bh3dvfgr83c5bh9is38t2tcl62a4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
